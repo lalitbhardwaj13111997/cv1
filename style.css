@@ -5,14 +5,14 @@ body {
     letter-spacing: 1px;
 }
 .titleMessage .heading .sub{
-	  font-weight: bold;
+	  
 	letter-spacing: 4;
     font-family: 'Roboto', sans-serif;
 }
 .titleMessage .heading .main {
     font-size: 50px;
     color: black;
-    font-weight: bold;
+  
     font-family: 'Roboto', sans-serif;
 }
 
