@@ -6,6 +6,7 @@ body {
 }
 .titleMessage .heading .sub{
 	  font-weight: bold;
+	letter-spacing: 4;
     font-family: 'Roboto', sans-serif;
 }
 .titleMessage .heading .main {
