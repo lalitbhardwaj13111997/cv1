@@ -49,21 +49,27 @@ body {
 }
 
 .titleMessage .heading p {
-	color: #fff;
+     color: #fff;
     text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
-    font-weight: 100;
-    letter-spacing: 7px;
+    font-weight: bold;
+    letter-spacing: 5px;
+   font-family: 'Roboto', sans-serif;
     color: black;
+	
 }
 
 .titleMessage .heading .main {
 	font-size: 50px;
 	color: black;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
 }
 
 .titleMessage .heading .sub {
-	font-size: 23px;
+	font-size: 21px;
 	color: black;
+	font-weight: bold;
+    font-family: 'Roboto', sans-serif;
 }
 
 .section {
