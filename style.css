@@ -55,14 +55,14 @@ body {
     text-align: center;
     margin-top: -125px;
     color: black;
-    font-weight: bold;
+   
     font-family: 'Roboto', sans-serif;
 }
 
 .titleMessage .heading p {
      color: #fff;
     text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
-    font-weight: bold;
+   
     letter-spacing: 5px;
    font-family: 'Roboto', sans-serif;
     color: black;
@@ -72,7 +72,7 @@ body {
 .titleMessage .heading .main {
 	font-size: 50px;
 	color: black;
-    font-weight: bold;
+
     font-family: 'Roboto', sans-serif;
 }
 
